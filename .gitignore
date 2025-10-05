@@ -22,8 +22,11 @@ reports/
 
 # Environment variables
 .env
+.env.*
 .env.local
 .env.production
+.env.development
+.env.test
 
 # IDE
 .vscode/
