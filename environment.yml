@@ -19,5 +19,5 @@ dependencies:
     - bcrypt==4.1.2
     - aiofiles==23.2.1
     - openpyxl==3.1.2
-    - python-dotenv==1.0.0  # helpful for reading .env files locally
-prefix: null
+    - python-dotenv==1.0.0
+    - pytest==8.4.2  # include pytest for CI/dev
